@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "l47MZza+EWNTVeSoyy5PymAWHRHdrcuZI/VuhKivqUKJIVaQ03ai5AbEhtpI5ENv2yj2qsBuoHzz+WWzNT8Rxg==",
+  "dgSpecHash": "WTKvQR7/uPD+Yen3W5XlIRPPpQD2iukPk140ysJjdKDG8fdVvmyT7RQGyvok94lRGiYjaL9aK5m817apcJiluA==",
   "success": true,
   "projectFilePath": "/home/kole/Documents/ClipOrganizer/ClipOrganizer/ClipOrganizer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/kole/.nuget/packages/microsoft.netcore.app.runtime.win-x64/6.0.29/microsoft.netcore.app.runtime.win-x64.6.0.29.nupkg.sha512",
+    "/home/kole/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.29/microsoft.netcore.app.runtime.linux-x64.6.0.29.nupkg.sha512",
+    "/home/kole/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/6.0.29/microsoft.aspnetcore.app.runtime.win-x64.6.0.29.nupkg.sha512",
+    "/home/kole/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.29/microsoft.aspnetcore.app.runtime.linux-x64.6.0.29.nupkg.sha512",
+    "/home/kole/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.29/microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512",
+    "/home/kole/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.29/microsoft.netcore.app.host.linux-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
