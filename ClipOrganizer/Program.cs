@@ -9,6 +9,7 @@ public class ClipOrganizer
     {
         while (true)
         {
+            Console.WriteLine("\n########################");
             Console.WriteLine("\nClip Organizer Menu:");
             Console.WriteLine("1. Add New Clip");
             Console.WriteLine("2. View Saved Clips");
