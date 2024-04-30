@@ -1,0 +1,15 @@
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/bin/Debug/net6.0/ClipOrganizer
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/bin/Debug/net6.0/ClipOrganizer.deps.json
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/bin/Debug/net6.0/ClipOrganizer.runtimeconfig.json
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/bin/Debug/net6.0/ClipOrganizer.dll
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/bin/Debug/net6.0/ref/ClipOrganizer.dll
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/bin/Debug/net6.0/ClipOrganizer.pdb
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/obj/Debug/net6.0/ClipOrganizer.csproj.AssemblyReference.cache
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/obj/Debug/net6.0/ClipOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/obj/Debug/net6.0/ClipOrganizer.AssemblyInfoInputs.cache
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/obj/Debug/net6.0/ClipOrganizer.AssemblyInfo.cs
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/obj/Debug/net6.0/ClipOrganizer.csproj.CoreCompileInputs.cache
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/obj/Debug/net6.0/ClipOrganizer.dll
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/obj/Debug/net6.0/ref/ClipOrganizer.dll
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/obj/Debug/net6.0/ClipOrganizer.pdb
+/home/kole/Documents/ClipOrganizer/ClipOrganizer/obj/Debug/net6.0/ClipOrganizer.genruntimeconfig.cache
